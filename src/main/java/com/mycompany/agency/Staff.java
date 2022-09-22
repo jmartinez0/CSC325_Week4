@@ -6,6 +6,7 @@ package com.mycompany.agency;
 public class Staff
 {
     private StaffMember[] staffList;
+    //test
 
     //-----------------------------------------------------------------
     //  Constructor: Sets up the list of staff members.
