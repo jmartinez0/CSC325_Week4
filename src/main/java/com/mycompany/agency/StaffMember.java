@@ -1,5 +1,9 @@
 package com.mycompany.agency;
 
+/**
+ * 
+ * @author John Distler (distjc@farmingdale.edu)
+ */
 
 
 // TODO 1: Make this class work and public
